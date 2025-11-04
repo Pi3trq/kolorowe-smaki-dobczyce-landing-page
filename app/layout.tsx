@@ -11,6 +11,11 @@ export const metadata: Metadata = {
   title: "kolorowesmakidobczyce.pl - Strona w budowie",
   description: "Produkty na wagę najwyższej jakości - nowa strona wkrótce",
   generator: "v0.app",
+  icons: {
+    icon: [
+      { url: "/logo-wieksze.webp", type: "image/webp", sizes: "any" },
+    ],
+  },
 }
 
 export default function RootLayout({
