@@ -14,6 +14,7 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       { url: "/logo-wieksze.webp", type: "image/webp", sizes: "any" },
+      { url: "/favicon.ico", type: "image/x-icon", sizes: "any" },
     ],
   },
 }
