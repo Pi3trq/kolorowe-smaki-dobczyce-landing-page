@@ -47,7 +47,7 @@ export default function UnderConstructionPage() {
         <div
           className="fixed inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: "url(/images/background.png)",
+            backgroundImage: "url(/images/tlo-landing.page.webp)",
             filter: "blur(12px)",
             transform: "scale(1.1)",
           }}
@@ -58,7 +58,7 @@ export default function UnderConstructionPage() {
 
         <div className="relative z-10 float-animation">
           <Image
-            src="/images/logo.webp"
+            src="/images/logo-kolorowesmaki.webp"
             alt="Kolorowe Smaki Logo"
             width={200}
             height={200}
